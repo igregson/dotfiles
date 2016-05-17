@@ -1,0 +1,49 @@
+{
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"drag_text": false,
+	"draw_centered": false,
+	"draw_minimap_border": true,
+	"enable_tab_scrolling": false,
+	"findreplace_small": true,
+	"flatland_sidebar_tree_small": true,
+	"flatland_square_tabs": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
+	"font_face": "Inconsolata",
+	"font_size": 9,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"match_brackets_content": false,
+	"match_selection": false,
+	"match_tags": false,
+	"open_files_in_new_window": true,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"scroll_speed": 5.0,
+	"shift_tab_unindent": true,
+	"show_full_path": false,
+	"sidebar_no_icon": true,
+	"status_bar_brighter": true,
+	"tab_size": 2,
+	"tabs_padding_medium": true,
+	"tabs_small": true,
+	"theme": "Afterglow-blue.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"word_wrap": false,
+	"wrap_width": 80
+}
